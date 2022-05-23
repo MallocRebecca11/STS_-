@@ -1,0 +1,3 @@
+The original SNLI dataset is on: https://www.kaggle.com/stanfordu/stanford-natural-language-inference-corpus
+
+The processed SNLI dataset is on: https://www.kaggle.com/neverseepython/processed-snli
